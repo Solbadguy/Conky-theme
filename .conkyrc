@@ -1,6 +1,7 @@
 ##################################################################################
 ## Conky by http://jameshardy88.deviantart.com/art/Conky-JamesHardy88-122466724 ##
 ##		    Modified by Umair - http://www.NoobsLab.com    		##
+##		    Modified#2 by SolBadGuy - https://admin.netlab-kursk.ru/    		##
 ##################################################################################
 # Use Xft?
 use_xft yes
@@ -133,6 +134,3 @@ ${endif}
 ${else}
 
 ${endif}
-
-
-
